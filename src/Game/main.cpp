@@ -1,4 +1,4 @@
-#include "App.h"
+#include "Game.h"
 #include <windows.h>
 
 int main(int argc, char *argv[]) {
